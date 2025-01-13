@@ -1,0 +1,79 @@
+Dataset	Nós	Limiar	algoritmo	tempo execução	taxa aproximação atingida	custo caminho atingido	Espaço (MB) usado
+eil51	51	426	christofides	0.32201099395751953	1.128026040502257	480.53909325396154	0.5801715850830078
+berlin52	52	7542	christofides	0.2931513786315918	1.1354819505887925	8563.804871340673	0.48663330078125
+st70	70	675	christofides	1.13895845413208	1.1320089440122467	764.1060372082666	0.9316482543945312
+eil76	76	538	christofides	1.1126163005828857	1.153658552752454	620.6683013808204	0.9252777099609375
+pr76	76	108159	christofides	0.4606325626373291	1.0788148433877394	116683.53464597449	0.888671875
+rat99	99	1211	christofides	1.1432578563690186	1.1291758701259091	1367.431978722476	1.6799468994140625
+rd100	100	7910	christofides	3.063103675842285	1.125852393317651	8905.492431142618	1.7419071197509766
+kroE100	100	22068	christofides				
+kroD100	100	21294	christofides				
+kroC100	100	20749	christofides				
+kroB100	100	22141	christofides				
+kroA100	100	21282	christofides				
+eil101	101	629	christofides				
+lin105	105	14379	christofides				
+pr107	107	44303	christofides				
+pr124	124	59030	christofides				
+bier127	127	118282	christofides				
+ch130	130	6110	christofides				
+pr136	136	96772	christofides				
+pr144	144	58537	christofides				
+ch150	150	6528	christofides				
+kroA150	150	26524	christofides				
+kroB150	150	26130	christofides				
+pr152	152	73682	christofides				
+u159	159	42080	christofides				
+rat195	195	2323	christofides				
+d198	198	15780	christofides				
+kroB200	200	29437	christofides				
+kroA200	200	29368	christofides				
+ts225	225	126643	christofides				
+tsp225	225	3919	christofides				
+pr226	226	80369	christofides				
+gil262	262	2378	christofides				
+pr264	264	49135	christofides				
+a280	280	2579	christofides				
+pr299	299	48191	christofides				
+lin318	318	42029	christofides				
+linhp318	318	41345	christofides				
+rd400	400	15281	christofides				
+fl417	417	11861	christofides				
+pr439	439	107217	christofides				
+pcb442	442	50778	christofides				
+d493	493	35002	christofides				
+u574	574	36905	christofides				
+rat575	575	6773	christofides				
+p654	654	34643	christofides				
+d657	657	48912	christofides				
+u724	724	41910	christofides				
+rat783	783	8806	christofides				
+pr1002	1002	259045	christofides				
+u1060	1060	224094	christofides				
+vm1084	1084	239297	christofides				
+pcb1173	1173	56892	christofides				
+d1291	1291	50801	christofides				
+rl1304	1304	252948	christofides				
+rl1323	1323	270199	christofides				
+nrw1379	1379	56638	christofides				
+fl1400	1400	20127	christofides				
+u1432	1432	152970	christofides				
+fl1577	1577	[22204,22249]	christofides				
+d1655	1655	62128	christofides				
+vm1748	1748	336556	christofides				
+u1817	1817	57201	christofides				
+rl1889	1889	316536	christofides				
+d2103	2103	[79952,80450]	christofides				
+u2152	2152	64253	christofides				
+u2319	2319	234256	christofides				
+pr2392	2392	378032	christofides				
+pcb3038	3038	137694	christofides				
+fl3795	3795	[28723,28772]	christofides				
+fnl4461	4461	182566	christofides				
+rl5915	5915	[565040,565530]	christofides				
+rl5934	5934	[554070,556045]	christofides				
+rl11849	11849	[920847,923368]	christofides				
+usa13509	13509	[19947008,19982889]	christofides				
+brd14051	14051	[468942,469445]	christofides				
+d15112	15112	[1564590,1573152]	christofides				
+d18512	18512	[644650,645488]	christofides				
