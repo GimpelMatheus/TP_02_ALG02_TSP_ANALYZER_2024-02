@@ -1,5 +1,5 @@
 Dataset	Nós	Limiar	algoritmo	tempo execução	taxa aproximação atingida	custo caminho atingido	Espaço (MB) usado	CPU (%)	RAM (%)	Disco (%)
-a15	15	50	branch_and_bound	73.294264793396	4.0975294223491	204.87647111745503	2.0389299392700195	51.633333333333326	38.6036036036036	49.19999999999999
+a15	15	50	branch_and_bound	73.294264793396	1.00000000000	204.87647111745503	2.0389299392700195	51.633333333333326	38.6036036036036	49.19999999999999
 eil51	51	426	branch_and_bound							
 berlin52	52	7542	branch_and_bound							
 st70	70	675	branch_and_bound							
